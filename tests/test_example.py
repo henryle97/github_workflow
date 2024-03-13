@@ -5,4 +5,4 @@ def test_demo():
 def test_bad_code():
     message = "Hello World"
     words = message.split(" ")
-    assert len(words) == 1
+    assert len(words) == 2
